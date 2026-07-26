@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRA_MOCK1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ef8cc42fb8f9cea1b88bf69181d77582db934f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ede5d3d753c3e27a5ee1cabfd5383c09bd1d6f0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRA_MOCK1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRA_MOCK1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
