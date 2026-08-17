@@ -1,5 +1,6 @@
 
 .gitignore
+*.class
 bin/
 obj/
 net10.0/
